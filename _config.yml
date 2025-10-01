@@ -22,13 +22,14 @@ author: Jay Love, PhD
 
 navbar-links:
   About Me: "aboutme"
-  #CV: "CV"
+  CV: "CV"
   #Publications: "publications"
   #Research: "research"
   #  - the evolution of collective movement: "collective movement"
   #  - infectious disease dynamics: "infectious disease"
   #  - the social brain: "social brain"
   #  - birdsong learning: "birdsong learning"
+
 
 ################
 # --- Logo --- #
