@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I study the ecology and evolution of sociality through the lens of collective behavior. Join me on this adventure.
+I study the ecology and evolution of sociality through the lens of collective behavior.
 
 
 ### My story
