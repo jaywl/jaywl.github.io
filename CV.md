@@ -1,7 +1,7 @@
- ---
- layout: page
- title: ""
- ---
+---
+layout: page
+title: ""
+---
  
  > # **Jay William Love, PhD**    
  https://jaywl.github.io    
