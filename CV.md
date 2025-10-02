@@ -1,7 +1,8 @@
 ---
 layout: page
-title: ""
+title: CV
 ---
+
  > # **Jay William Love, PhD**    
  https://jaywl.github.io    
  jay[dot]love[at]cornell[dot]edu    
