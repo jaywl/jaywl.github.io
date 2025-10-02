@@ -29,14 +29,17 @@ ___
  * 2020 -- 2022 **University of Utah**, School of Medicine    
  *Postdoctoral Fellow*    
  Division of Epidemiology     
- Advisors: Damon Toth, Matt Samore    
+ Advisors: Damon Toth, Matt Samore  
+ 
  * 2019 -- 2020 **University of Utah**, School of Medicine    
  *Postdoctoral Fellow*    
  Department of Neurboiology and Anatomy    
  Advisor: Moriel Zelikowsky     
+ 
  * 2014 -- 2019 **University of Utah**, School of Biological Sciences    
  *PhD Biology*    
  Advisor: Franz Goller    
+ 
  * 2007 -- 2010 **University of Georgia**, Eugene P. Odum School of Ecology    
  *B.S. Ecology*    
 
@@ -44,7 +47,7 @@ ___
 
 > **Publications**
 
- [Submitted/Preprint/Under Review]{.underline}
+ (Submitted/Preprint/Under Review)
  \* = mentee
 
  * **Love J**, Grassick A, Nayak A, Kong LW, Pennell M, Hein A (*in prep*) On the evolution of collective movement in fishes.  
@@ -53,7 +56,7 @@ ___
  * Nguyen D, Duong KNC, Coates E, Nelson RE, **Love J**, Jones M, Samore M, Chaiyakunapruk N, Toth D (*in prep* ) Assessment of the effects of an equity-targeted vaccination outreach program on overall and distributional health and economic outcomes.  
  * Carroll E\*, **Love J**, ... , Zelikowsky M (*in prep*) Neural underpinnings of mating behavior and change under social isolation.  
 
- [Published]{.underline}
+ (Published)
  
  * Kong LW, Gallart L, Grassick AG, **Love J,** Nayak A, Hein AM (*accepted/in press at* Journal of the Royal Society Interface) A brief natural history of misinformation
  * Toth DJA, Sheets TR, Beams AB, Ahmed SM, Seegert N, **Love J**, Keegan LT, Samore MH (2024) Model-based estimates of age-structured SARS-CoV-2 epidemiology in households. *BMC Public Health* 24(2965) doi:10.1101/2024.04.18.24306047.  
@@ -66,14 +69,14 @@ ___
  * **Love J** and Zelikowsky M (2020) Social density stress as a continuum. *Frontiers in Systems Neuroscience* 14. doi:10.3389/fnsys.2020.582985.  
  * **Love J**, Hoepfner A, Goller F (2019) Song feature specific analysis of isolate song reveals interspecific variation in learned components. *Developmental Neurobiology* 79(4):350-369. doi:10.1002/dneu.22682.  
 
- [Published Conference Proceedings]{.underline}
+ (Published Conference Proceedings)
  
  * Nguyen DT, Duong KNC, Coates E, Nelson RE, **Love J**, Jones MM, Samore MH, Chaiyakunapruk N, Toth DJA P13 Assessment of the Effects of an Equity-Targeted Vaccination Outreach Program on Overall and Distributional Health and Economic Outcomes (2024) *Value in Health* 27(6):S3-S4. doi:10.1016/j.jval.2024.03.039.  
  * Duong KNC, Nguyen DT, Kategeaw W, Liang X, Khaing W, Visnovsky LD, Veettil SK, McFarland MM, Nelson RE, Jones BE, Pavia AT, Coates E,Khader K, **Love J**, Vega Yon GG, Zhang Y, Willson T, Dorsan E, Toth DJA, Jones MM, Samore MH, Chaiyakunapruk N (2024) Incorporating social determinants of health into transmission modeling of COVID-19 vaccine in the US: a scoping review (2024) *Value in Health* 27(6):S175-S176. doi:10.1016/j.jval.2024.03.952   
  * Toth DJA, Sheets T, Beams A, Keegan L, **Love J**, Ahmed S, Zhang Y, Orleans B, Seegert N, Looney A, Alder S, Samore MH (2023) Novel Epidemiological Household Models Applied to Sars-Cov-2 Data from Over 15,000 Households in Utah: Insights into Transmission Variability and Age Effects. 9th international conference on infectious disease dynamics: o13.2.  
 
 
- [Popular Science Writing]{.underline}
+ (Popular Science Writing)
 
  * **Love J** (2015). View from the field. 2015 Annual Report of the Institute for Bird Populations.
 
@@ -103,7 +106,7 @@ ___
 ___
 > **Presentations and Posters**
 
- [Conferences and Meetings]{.underline}
+ (Conferences and Meetings)
 
  * 2025 (scheduled) *Neural underpinnings of mating behavior and their social isolation-induced change* Neuroscience 2025, San Diego, CA, 11/15 (Poster by co-mentee Erin Carroll)
  * 2025 *Investigating the evolution of collective movement in fishes* Evolution 2025, Athens, GA 6/21
@@ -112,7 +115,7 @@ ___
  * 2018 *Song-feature specific analysis of isolate song reveals interspecific variation in learned components* (poster), International Ornithological Congress, Vancouver, BC, Canada 8/22
  * 2018 *Analysis of isolate song reveals interspecific variation in learned components* American Ornithological Society meeting, Tucson AZ, 4/11
 
- [Invited outreach]{.underline}
+ (Invited outreach)
  
  * 2022 *Becoming a Guest Researcher at CDC* 2022 MInD Meeting, CDC, Atlanta, GA 9/12
  * 2018 *Using spectrographic visual representation to learn birdsong* IBP NCCN Seasonal Training, Friday Harbor, WA 5/25
@@ -120,8 +123,7 @@ ___
  * 2016 *Songs of hermit and Townsend's warblers on the Olympic Peninsula* IBP NCCN Seasonal Training, Astoria, OR, 5/30
  * 2015 *Convergent character displacement in an avian hybrid zone?* IBP NCCN Seasonal Training, Port Angeles, WA, 6/1
 
- [Internal]{.underline}
-
+ (Internal)
   
  * 2017 *Dealing with acoustic syntax in R,* R club, University of Utah, Department of Biology, 11/15
  * 2017 *Song trait change across an avian hybrid zone: Does vocal learning influence pre-mating isolation?* University of Utah, Dept. of Biology, 1/13
@@ -130,7 +132,7 @@ ___
  * 2014 *Birdsong, music, and why we like it* Physiological Bases of Behavior, University of Utah, 10/1
 
 
- [Conference Attendance]{.underline}
+ (Conference Attendance)
 
  * 2025 Evolution 2025, Athens, Georgia \*\*.  
  * 2021 5^th^ Workshop on Viral Dynamics, Virtual.  
