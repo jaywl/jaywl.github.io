@@ -2,7 +2,6 @@
 layout: page
 title: ""
 ---
- 
  > # **Jay William Love, PhD**    
  https://jaywl.github.io    
  jay[dot]love[at]cornell[dot]edu    
