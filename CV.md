@@ -4,7 +4,7 @@ title: ""
 ---
  
  > # **Jay William Love, PhD**    
- https://jaywl.github.io    
+ jaywl.github.io    
  jay[dot]love[at]cornell[dot]edu    
 
 ___
